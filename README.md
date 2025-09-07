@@ -26,8 +26,6 @@ Saya adalah seorang mahasiswa IT yang memiliki <br>minat besar di bidang  Pemrog
 ---
 [![](https://visitcount.itsvg.in/api?id=Bungdede-dev&icon=3&color=0)](https://visitcount.itsvg.in)
 
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bungdede-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bungdede-dev&theme=tokyonight&hide_border=false)<br/>
