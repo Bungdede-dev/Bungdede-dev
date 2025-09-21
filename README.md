@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-Yap Benar Sekali Guys Saya itu Seorang mahasiswa IT yang memiliki <br>minat besar di bidang  Pemrograman dan ui/ux. <br>Saat ini saya terus mengasah kemampuan teknis <br>sekaligus kreativitas dalam membangun aplikasi yang <br>bermanfaat dan memiliki pengalaman pengguna yang baik. <br>Saya berkomitmen untuk berkembang dan siap terjun ke dunia <br>industri teknologi.
+Seorang mahasiswa IT yang memiliki <br>minat besar di bidang  Pemrograman dan ui/ux. <br>Saat ini saya terus mengasah kemampuan teknis <br>sekaligus kreativitas dalam membangun aplikasi yang <br>bermanfaat dan memiliki pengalaman pengguna yang baik. <br>Saya berkomitmen untuk berkembang dan siap terjun ke dunia <br>industri teknologi.
 
 
 ## 🌐 Socials:
